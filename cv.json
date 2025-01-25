@@ -6,7 +6,7 @@
     "email": "criistianev2015@gmail.com",
     "phone": "+57 3178619772",
     "url": "https://midu.dev",
-    "summary": "Desarrollador Mobile apasionado con la creacion de soluciones innovadores y eficientes. Soy una persona versatil y comprometida con mi trabajo. Me gusta aprender y compartir conocimiento con los demas. Me considero una persona proactiva y con facilidad para trabajar en equipo. Me gusta trabajar en proyectos que me permitan crecer profesionalmente y personalmente.",
+    "summary": "Desarrollador Móvil apasionado por crear soluciones innovadoras y eficientes. Cuento con 3 años de experiencia trabajando con tecnologías como React Native, Expo y Flutter. Me destaco por ser versátil, comprometido y proactivo, siempre buscando aportar valor más allá de las expectativas iniciales. Disfruto aprender y compartir conocimientos, participando activamente en equipos donde a menudo asumo roles de liderazgo y fomento la colaboración. Mi pasión por el desarrollo móvil radica en su capacidad para ofrecer soluciones accesibles y cercanas a las personas, impactando positivamente en su día a día. Trabajo en proyectos que me desafían a crecer tanto profesional como personalmente, guiándome por principios de innovación y un fuerte enfoque en el impacto social.",
     "location": {
       "address": "",
       "postalCode": "250251",
@@ -39,7 +39,7 @@
       "url": "https://www.accenture.com/co-es",
       "startDate": "2022-28-06",
       "endDate": null,
-      "summary": "Desarrolle y mantuve una aplicacion movil bancaria para una entidad financiera en Colombia. Implemente una arquitectura limpia y escalable. Mejore la calidad del codigo y la velocidad de entrega. Colabore con el equipo de diseno para mejorar la experiencia de usuario.",
+      "summary": "Optimicé y amplié las funcionalidades de una aplicación móvil bancaria para una entidad financiera en Colombia. Implementé una arquitectura limpia y escalable que mejoró la mantenibilidad del proyecto. Mejoré la calidad del código mediante la aplicación de mejores prácticas y revisiones constantes, aumentando la eficiencia del equipo. Reduje los tiempos de entrega mediante optimizaciones en los procesos de desarrollo y despliegue. Colaboré estrechamente con el equipo de diseño para optimizar la experiencia de usuario, logrando una interfaz más intuitiva y accesible.",
       "highlights": [
         "Started the company"
       ]
@@ -50,7 +50,7 @@
       "url": "https://www.escuelaing.edu.co/es/",
       "startDate": "2021-07",
       "endDate": "2021-12",
-      "summary": "Estuve trabajando en un proyecto de investigacion en el grupo de inteligencia artificial y sistemas embebidos. En este grupo de investigacion se trabajo en la configuracion y puesta en marcha de equipos nvidia jetson para el entrenamiento de redes neuronales capaces de identificar objetos.",
+      "summary": "Colaboré en un proyecto de investigación con el grupo de Inteligencia Artificial y Sistemas Embebidos. Configuré y puse en marcha equipos Nvidia Jetson para el desarrollo de soluciones basadas en inteligencia artificial. Implementé y entrené redes neuronales diseñadas para la identificación precisa de objetos, utilizando hardware especializado para optimizar el rendimiento. Contribuí al avance del proyecto al integrar tecnologías de vanguardia y asegurar un flujo de trabajo eficiente en el entrenamiento de modelos de aprendizaje profundo.",
       "highlights": [
         "Started the company"
       ]
@@ -60,8 +60,8 @@
       "position": "Monitor Academico Electrónica Analóga",
       "url": "https://www.escuelaing.edu.co/es/",
       "startDate": "2021-01",
-      "endDate": "2020-05",
-      "summary": "Trabaje por segunda vez como monitor academico en la materia de Electrónica Analóga. Ayude a los estudiantes a comprender y soluciionar todas  las  dudas e inquietudes que tuviesen esta area.",
+      "endDate": "2021-05",
+      "summary": "Me desempeñé por segunda vez como monitor académico en la materia de Electrónica Análoga. Brindé apoyo a los estudiantes, ayudándolos a comprender conceptos clave y resolver dudas relacionadas con circuitos, dispositivos electrónicos y análisis de señales. Fomenté el aprendizaje activo mediante explicaciones claras y ejercicios prácticos, mejorando el rendimiento académico de los alumnos. Actué como enlace entre los estudiantes y los profesores, asegurando una comunicación efectiva y un soporte personalizado.",
       "highlights": [
         "Started the company"
       ]
@@ -72,7 +72,7 @@
       "url": "https://www.escuelaing.edu.co/es/",
       "startDate": "2020-12",
       "endDate": "2020-07",
-      "summary": "Trabaje como monitor academico en la materia de Electrónica Analóga. Ayude a los estudiantes a comprender los conceptos basicos de la materia.",
+      "summary": "Me desempeñé como monitor académico en la materia de Electrónica Análoga. Apoyé a los estudiantes en la comprensión de los conceptos básicos de la materia, como circuitos eléctricos, análisis de componentes y principios fundamentales de electrónica. Proporcioné orientación personalizada para resolver dudas y reforzar el aprendizaje en temas clave. Desarrollé habilidades de comunicación efectiva y pedagogía al interactuar con estudiantes de diferentes niveles de comprensión.",
       "highlights": [
         "Started the company"
       ]
@@ -92,8 +92,8 @@
   "education": [{
     "institution": "Escuela Colombiana de Ingeniería Julio Garavito",
     "url": "https://www.escuelaing.edu.co/es/",
-    "area": "Ingeniero Electronico",
-    "studyType": "Ingenieria",
+    "area": "Ingeniería Electrónica",
+    "studyType": "Ingeniería",
     "startDate": "2017-01-01",
     "endDate": "2022-06-01",
     "score": "4.0",

@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Cristian Stiben Espinosa Vargas",
-    "label": "Junior Mobile Developer",
+    "label": "Mobile Developer",
     "image": "/me.jpeg",
     "email": "criistianev2015@gmail.com",
     "phone": "+57 3178619772",
     "url": "https://midu.dev",
-    "summary": "+3 años de experiencia como Desarrollador Mobile. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "summary": "Desarrollador Mobile apasionado con la creacion de soluciones innovadores y eficientes. Soy una persona versatil y comprometida con mi trabajo. Me gusta aprender y compartir conocimiento con los demas. Me considero una persona proactiva y con facilidad para trabajar en equipo. Me gusta trabajar en proyectos que me permitan crecer profesionalmente y personalmente.",
     "location": {
       "address": "",
       "postalCode": "250251",
@@ -17,39 +17,62 @@
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
+        "username": "cristian-espinosa-vargas-31369b1b0",
         "url": "https://www.linkedin.com/in/cristian-espinosa-vargas-31369b1b0/"
       },
       {
         "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "TibeCol",
+        "url": "https://x.com/TibeCol"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
+        "username": "cristian1206",
         "url": "https://github.com/cristian1206"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "name": "Accenture",
+      "position": "Custom Software Engineering Analyst",
+      "url": "https://www.accenture.com/co-es",
+      "startDate": "2022-28-06",
       "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+      "summary": "Desarrolle y mantuve una aplicacion movil bancaria para una entidad financiera en Colombia. Implemente una arquitectura limpia y escalable. Mejore la calidad del codigo y la velocidad de entrega. Colabore con el equipo de diseno para mejorar la experiencia de usuario.",
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
+      "name": "Escuela Colombiana de Ingeniería Julio Garavito",
+      "position": "Monitor de investigacion en el grupo de inteligencia artificial y sistemas embebidos",
+      "url": "https://www.escuelaing.edu.co/es/",
+      "startDate": "2021-07",
+      "endDate": "2021-12",
+      "summary": "Estuve trabajando en un proyecto de investigacion en el grupo de inteligencia artificial y sistemas embebidos. En este grupo de investigacion se trabajo en la configuracion y puesta en marcha de equipos nvidia jetson para el entrenamiento de redes neuronales capaces de identificar objetos.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Escuela Colombiana de Ingeniería Julio Garavito",
+      "position": "Monitor Academico Electrónica Analóga",
+      "url": "https://www.escuelaing.edu.co/es/",
+      "startDate": "2021-01",
+      "endDate": "2020-05",
+      "summary": "Trabaje por segunda vez como monitor academico en la materia de Electrónica Analóga. Ayude a los estudiantes a comprender y soluciionar todas  las  dudas e inquietudes que tuviesen esta area.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Escuela Colombiana de Ingeniería Julio Garavito",
+      "position": "Monitor Academico Electrónica Analóga",
+      "url": "https://www.escuelaing.edu.co/es/",
+      "startDate": "2020-12",
+      "endDate": "2020-07",
+      "summary": "Trabaje como monitor academico en la materia de Electrónica Analóga. Ayude a los estudiantes a comprender los conceptos basicos de la materia.",
       "highlights": [
         "Started the company"
       ]
@@ -70,12 +93,12 @@
     "institution": "Escuela Colombiana de Ingeniería Julio Garavito",
     "url": "https://www.escuelaing.edu.co/es/",
     "area": "Ingeniero Electronico",
-    "studyType": "Bachelor",
+    "studyType": "Ingenieria",
     "startDate": "2017-01-01",
     "endDate": "2022-06-01",
     "score": "4.0",
     "courses": [
-      "DB1101 - Basic SQL"
+      "Sistemas de Control"
     ]
   }],
   "awards": [{
@@ -134,20 +157,6 @@
       ]
     },
     {
-      "name": "Node",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
-      ]
-    },
-    {
-      "name": "MySQL",
-      "level": "Avanzado",
-      "keywords": [
-        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
-      ]
-    },
-    {
       "name": "Git",
       "level": "Avanzado",
       "keywords": [
@@ -176,10 +185,24 @@
       ]
     },
     {
-      "name": "React-Native",
+      "name": "ReactNative",
       "level": "Avanzado",
       "keywords": [
         "Desarrollo Mobile", "Mobile", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "Expo",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Mobile", "Mobile", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "Flutter",
+      "level": "Intermedio",
+      "keywords": [
+        "Desarrollo Mobile", "Mobile", "Dartd", "UI", "Multiplataforma"
       ]
     }
   ],
@@ -190,7 +213,7 @@
     },
     {
       "language": "English",
-      "fluency": "Advanced"
+      "fluency": "Medium"
     }
   ],
   "interests": [{
@@ -206,35 +229,31 @@
   }],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "App BrontoByte iOS",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "description": "Aplicación móvil iOS para la empresa BrontoByte",
       "highlights": [
-        "Elige tu propia aventura",
+        "Desarrollo de la aplicación",
+        "Despliegue en App Store",
+        "Comunicacion por postmessage con webview",
+        "Solicitud de permisos",
         "En desarrollo"
       ],
-      "url": "https://mars.codes"
+      "url": "https://apps.apple.com/co/app/brontobyte/id6479675467",
+      "github": null
     },
     {
-      "name": "AdventJS",
+      "name": "Ferreteria El Porvenir",
       "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "description": "Sitio web para la ferreteria El Porvenir",
       "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
+        "Desarrollo del sitio web",
+        "Despliegue del sitio web",
+        "En desarrollo"
       ],
-      "url": "https://adventjs.dev"
-    },
-    {
-      "name": "Codember",
-      "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
-      "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
-      ],
-      "url": "https://codember.dev"
+      "url": "https://ferretodoelporvenir.com/",
+      "github": null
+
     }
   ]
 }
